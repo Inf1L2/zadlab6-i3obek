@@ -25,7 +25,7 @@ public class Punkt {
                 + " z = " + last_point.z + "). Istnieje już"
                 + " " + last_point.counter + " obiekt tej klasy.");
     }
-    
+
     @Override
     public String toString(){
         String s = "Klasa Punkt o współrzędnych (x = " + last_point.x

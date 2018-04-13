@@ -16,4 +16,11 @@ public class ObjectCounter {
         System.out.println("-------------------------------------------------");
         Punkt.PokazOstatniObiekt();
     }
+
+    /**
+     * W kodzie brakowało importu klasy Random
+     * kod realizuje losowanie współrzędnych z zakresu od 0 do 999 i wpisuje je do 10-cio elementowej talicy
+     * oraz wyświetla wynik działania.
+     */
+
 }
